@@ -1,3 +1,5 @@
 #Kicad temporary files
 *.bak
 *.kicad_pcb-bak
+!*.lib #my global rules ignore this so include it
+*.~ # emacs backup files
